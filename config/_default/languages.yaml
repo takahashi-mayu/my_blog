@@ -2,9 +2,9 @@
 #   Create a section for each of your site's languages.
 #   Documentation: https://wowchemy.com/docs/guide/language/
 
-# Default language
+Default language
 #en:
-#  languageCode: "ja"
+#  languageCode: "en"
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
   #contentDir: content/en
 
