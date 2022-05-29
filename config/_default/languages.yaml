@@ -12,11 +12,11 @@
 ja:
   languageCode: ja
   contentDir: content/ja
-  title: Chinese website title...
+  title: Takahashi Mayu
   params:
-    description: Site description in Chinese...
+    description: 
   menu:
     main:
-      - name: 髙橋
+      - name: 髙橋 茉優
         url: '#about'
         weight: 1
