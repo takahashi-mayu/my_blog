@@ -10,7 +10,7 @@ baseURL: 'https://github.com/takahashi-mayu/my_blog.git' # Website URL
 ## LANGUAGE
 ############################
 
-defaultContentLanguage: en-us
+defaultContentLanguage: "ja"
 hasCJKLanguage: true
 defaultContentLanguageInSubdir: false
 removePathAccents: true
