@@ -61,5 +61,3 @@ highlight_name: true
 ---
 
 社会心理学を専攻する大学院生です。集合的な協力や分配などの制度を支えるメカニズムに興味があります。
-
-#{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
