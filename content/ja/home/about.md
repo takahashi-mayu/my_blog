@@ -13,6 +13,7 @@ headless: true
 weight: 20
 
 title: Biography
+subtitle: 自己紹介
 
 # Choose the user profile to display
 # This should be the username (folder name) of a profile in your `content/authors/` folder.
