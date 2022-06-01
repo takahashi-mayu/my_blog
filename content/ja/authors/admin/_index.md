@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Takahashi Mayu（髙橋 茉優）
+title: Takahashi Mayu | 髙橋 茉優
 
 # Is this the primary user of the site?
 superuser: true
