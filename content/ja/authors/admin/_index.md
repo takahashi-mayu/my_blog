@@ -2,7 +2,7 @@
 # Display name
 title: Takahashi Mayu
 <br>
-(髙橋 茉優)
+（髙橋 茉優）
 
 # Is this the primary user of the site?
 superuser: true
