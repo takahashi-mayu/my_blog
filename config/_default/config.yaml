@@ -5,7 +5,6 @@
 
 title: Takahashi Mayu # Website name
 baseURL: 'https://github.com/takahashi-mayu/my_blog.git' # Website URL
-theme:  "Academic"
 
 ############################
 ## LANGUAGE
