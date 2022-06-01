@@ -44,11 +44,11 @@ header:
 footer:
   copyright:
     notice: '© Takahashi Mayu, {year}'
-    #license:
-    #  enable: true
-    #  allow_derivatives: false
-    #  share_alike: true
-    #  allow_commercial: false
+    license:
+      enable: false
+      allow_derivatives: false
+      share_alike: false
+      allow_commercial: false
 
 # Localization
 
