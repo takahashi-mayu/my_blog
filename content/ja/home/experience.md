@@ -29,7 +29,7 @@ experience:
     #company_logo: org-x
     location: 東京
     date_start: '2022-10-01'
-    date_end: '2022-01-01'
+    date_end: '2023-01-01'
     description: 社会心理学演習Ⅰ
     
   - title: ティーチングアシスタント
