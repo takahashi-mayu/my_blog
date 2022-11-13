@@ -28,6 +28,15 @@ experience:
     company_url: 'https://www.l.u-tokyo.ac.jp'
     #company_logo: org-x
     location: 東京
+    date_start: '2022-10-01'
+    date_end: '2022-01-01'
+    description: 社会心理学演習Ⅰ
+    
+  - title: ティーチングアシスタント
+    company: 東京大学 文学部
+    company_url: 'https://www.l.u-tokyo.ac.jp'
+    #company_logo: org-x
+    location: 東京
     date_start: '2021-10-01'
     date_end: '2021-01-01'
     description: 社会心理学実験実習
