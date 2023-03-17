@@ -38,7 +38,7 @@ experience:
     #company_logo: org-x
     location: 東京
     date_start: '2021-10-01'
-    date_end: '2021-01-01'
+    date_end: '2022-01-01'
     description: 社会心理学実験実習
 
 #experience:

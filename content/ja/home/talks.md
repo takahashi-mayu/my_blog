@@ -39,7 +39,10 @@ design:
   #   4 = Citation (publication only)
   view: 2
 ---
-**髙橋茉優**, 亀田達也. 世代を超えた協力を作るには？後続世代の存続に着目して, [第25回実験社会科学カンファレンス](https://sites.google.com/view/expss2022), 長野, 2022年10月.
+**髙橋茉優**, 亀田達也. 世代を超えた協力を作るには —後続世代の存続に着目して—, [日本行動進化学会第15回大会](https://sites.google.com/hbesj.org/conf2022sapporo/), 北海道+オンライン, 2022年12月.
+<br/>
+
+**髙橋茉優**, 亀田達也. 世代を超えた協力を作るには —後続世代の存続に着目して—, [第25回実験社会科学カンファレンス](https://sites.google.com/view/expss2022), 長野, 2022年10月.
 <br/>
 
 **髙橋茉優**, 亀田達也. 囚人のジレンマにおける条件付き協力概念の精緻化, [日本心理学会第86回大会](https://confit.atlas.jp/guide/event/jpa2022/top?lang=ja), 東京+オンライン, 2022年9月.

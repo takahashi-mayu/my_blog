@@ -11,7 +11,7 @@ weight: 40
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
 title: 'Awards'
-subtitle: 賞
+subtitle: 賞・成果
 
 # Date format
 #   Refer to https://wowchemy.com/docs/customization/#date-format
@@ -23,6 +23,14 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
+- #certificate_url: https://www.l.u-tokyo.ac.jp/excellence/index.html
+  date_end: "2023-03-01"
+  date_start: "2021-03-01"
+  description: ""
+  organization: 東京大学大学院人文社会系研究科
+  organization_url: https://www.l.u-tokyo.ac.jp/
+  title: 国際卓越大学院人文社会系研究科「次世代育成プログラム」修士課程プログラム
+  url: https://www.l.u-tokyo.ac.jp/excellence/index.html
 - #certificate_url: https://www.socialpsychology.jp/award/wakate_2021_2.html
   date_end: ""
   date_start: "2022-03-01"
@@ -47,6 +55,14 @@ item:
   organization_url: http://www.abef.jp
   title: 第4回行動経済学会学生論文コンテスト優秀賞
   url: "http://www.abef.jp/topics/20210301/1097/"
+- #certificate_url: https://www.l.u-tokyo.ac.jp/excellence/index.html
+  date_end: "2021-03-01"
+  date_start: "2020-03-01"
+  description: ""
+  organization: 東京大学大学院人文社会系研究科
+  organization_url: https://www.l.u-tokyo.ac.jp/
+  title: 国際卓越大学院人文社会系研究科「次世代育成プログラム」学部プログラム
+  url: https://www.l.u-tokyo.ac.jp/excellence/index.html
   
 #    - certificate_url: https://www.coursera.org
 #    date_end: ''
