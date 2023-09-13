@@ -39,6 +39,12 @@ design:
   #   4 = Citation (publication only)
   view: 2
 ---
+**髙橋茉優**, 亀田達也. 世代を超えた協力を作るには —後続世代の存続に着目して—, [第6回 FUTURE DESIGN 2023](https://www.ri-futuredesign.com/futuredesign2023), オンライン, 2023年9月.
+<br/>
+
+**髙橋茉優**, 亀田達也. 世代を超えた協力を作るには —後続世代の存続に着目して—, [日本社会心理学会第64回大会](https://www.socialpsychology.jp/conf2023/), 東京+オンライン, 2023年9月.
+<br/>
+
 **髙橋茉優**, 亀田達也. 世代を超えた協力を作るには —後続世代の存続に着目して—, [日本行動進化学会第15回大会](https://sites.google.com/hbesj.org/conf2022sapporo/), 北海道+オンライン, 2022年12月.
 <br/>
 

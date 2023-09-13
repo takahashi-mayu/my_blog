@@ -23,6 +23,14 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
+- #certificate_url: https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-23KJ0696/
+  date_end: ""
+  date_start: "2023-04-01"
+  description: ""
+  organization: 日本学術振興会
+  organization_url: https://www.jsps.go.jp/
+  title: 特別研究員奨励費（DC1）
+  url: https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-23KJ0696/
 - #certificate_url: https://www.l.u-tokyo.ac.jp/excellence/index.html
   date_end: "2023-03-01"
   date_start: "2021-03-01"

@@ -12,6 +12,8 @@ superuser: true
 organizations:
 - name: 東京大学
   url: http://www.u-tokyo.ac.jp
+- name: 日本学術振興会
+  url: https://www.jsps.go.jp/
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -24,9 +26,12 @@ organizations:
 # Education to show in About widget
 education:
   courses:
+  - course: 人文社会系研究科(社会文化研究専攻) 博士課程
+    institution: 東京大学
+    year: 2023-
   - course: 人文社会系研究科(社会文化研究専攻) 修士課程
     institution: 東京大学
-    year: 2021-現在
+    year: 2021-2023
   - course: 文学部 社会心理学専修課程
     institution: 東京大学
     year: -2021
@@ -60,4 +65,4 @@ email: ''
 highlight_name: true
 ---
 
-社会心理学を専攻する大学院生です。集合的な協力や分配などの制度を支えるメカニズムに興味があります。
+社会心理学を専攻する大学院生です。集合的な協力や分配などの制度を支えるメカニズム、世代を超えた協力などに興味があります。
