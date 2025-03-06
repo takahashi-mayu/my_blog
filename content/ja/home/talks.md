@@ -39,6 +39,21 @@ design:
   #   4 = Citation (publication only)
   view: 2
 ---
+**髙橋茉優**, 亀田達也. メッセージが世代間協力に及ぼす影響の検討, [日本環境心理学会 第18回大会](http://jsep.jp/2025/news/1059/), 千葉, 2025年3月.
+<br/>
+
+**髙橋茉優**. 世代間協力の基盤となり得る道徳原理の検討 —年齢層に着目して—, [第7回 FUTURE DESIGN 2024](https://www.ri-futuredesign.com/future-design-2024), オンライン, 2024年9月.
+<br/>
+
+**髙橋茉優**, 亀田達也. 道徳原理に基づく世代間協力 —年齢層に着目して—, [日本心理学会第88回大会](https://pub.confit.atlas.jp/ja/event/jpa2024), 熊本, 2024年9月.
+<br/>
+
+**髙橋茉優**, 亀田達也. 人々は持続可能な社会のために将来世代を代弁するか？：各年齢層の予想と実際, [第27回実験社会科学カンファレンス](https://sites.google.com/view/27ess/), 京都, 2024年7月.
+<br/>
+
+**髙橋茉優**, 亀田達也. 世代を超えた協力を作るには —後続世代の存続に着目して—, [日本心理学会第87回大会](https://confit.atlas.jp/guide/event/jpa2023/top), 兵庫+オンライン, 2023年9月.
+<br/>
+
 **髙橋茉優**, 亀田達也. 世代を超えた協力を作るには —後続世代の存続に着目して—, [第6回 FUTURE DESIGN 2023](https://www.ri-futuredesign.com/futuredesign2023), オンライン, 2023年9月.
 <br/>
 
