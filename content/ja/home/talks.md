@@ -39,6 +39,15 @@ design:
   #   4 = Citation (publication only)
   view: 2
 ---
+三⽊毬菜, **髙橋茉優**, 佐藤みちる. 将来世代をめぐる⼼のはたらき：社会⼼理学からのアプローチ（ワークショップ話題提供、指定討論：林岳彦）, [日本社会心理学会 第66回大会](https://www.socialpsychology.jp/conf2025/), 東京, 2025年9月.
+<br/>
+
+**髙橋茉優**. 環境保護意欲に対する年齢・経済的要因の影響：ISSPデータを用いた二次分析, [FUTURE DESIGN 2025](https://www.ri-futuredesign.com/fd2025), オンライン, 2025年9月.
+<br/>
+
+**髙橋茉優**, 亀田達也. ストーリーメッセージは世代間協力を喚起するか？ —Narrative Transportationに着目して—, [日本心理学会 第89回大会](https://pub.confit.atlas.jp/ja/event/jpa2025), 宮城, 2025年9月.
+<br/>
+
 **髙橋茉優**, 亀田達也. メッセージが世代間協力に及ぼす影響の検討, [日本環境心理学会 第18回大会](http://jsep.jp/2025/news/1059/), 千葉, 2025年3月.
 <br/>
 
